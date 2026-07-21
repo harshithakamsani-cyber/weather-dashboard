@@ -1,2 +1,2 @@
 # weather-dashboard
-A responsive To-Do List application built using HTML, CSS3 and JavaScript. It supports CRUD operations, localStorage data persistence, task filtering (All, Active, Completed), and dynamic DOM manipulation.
+A responsive Weather Dashboard built using HTML, CSS, and JavaScript. It displays real-time weather information using a weather API.
